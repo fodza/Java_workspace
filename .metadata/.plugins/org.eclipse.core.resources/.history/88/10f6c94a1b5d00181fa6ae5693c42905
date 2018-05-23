@@ -1,0 +1,14 @@
+
+public class HelloMath {
+
+	public static void main(String[] args) {
+		
+		// int c = a + b
+		int c = 5 + 8;
+		
+		System.out.println("a+b=c summa:" + c);
+		
+
+	}
+
+}

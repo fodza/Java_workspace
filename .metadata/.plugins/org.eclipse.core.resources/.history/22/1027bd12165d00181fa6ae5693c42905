@@ -1,0 +1,13 @@
+
+public class HelloWord {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int i  = 1_000_000; 
+		i = 321;
+		
+System.out.println("Hello Word!");
+	}
+
+}

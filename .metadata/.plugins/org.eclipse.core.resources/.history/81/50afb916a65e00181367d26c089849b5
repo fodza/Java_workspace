@@ -1,0 +1,19 @@
+
+public class Syntax {
+
+	public static void main(String[] args) {
+Scanner scanner = new Scanner(System.in);
+System.out.println("Ievadi skaitli ");
+		int someNumber = 11;
+		
+		if (someNumber > 10) {
+			System.out.println("lielaks par 10");
+			someNumber =10;
+		} else if (someNumber < - 10){
+
+			System.out.println("mazaks par -10");
+		}
+		
+	}
+
+}

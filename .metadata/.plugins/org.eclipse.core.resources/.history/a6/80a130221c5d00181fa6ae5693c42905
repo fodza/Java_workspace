@@ -1,0 +1,21 @@
+
+public class HelloMath {
+
+	public static void  main(String[] args) {
+		
+		// int c = a + b
+		
+		int a = 5;
+		int b = 8;
+		int c = a - b;
+		int d = a*a;
+		int e = a*a + b;
+		double f = b/a;
+		
+		System.out.println("a+b=c summa:" + c);
+		System.out.println("a x a = d reiz:" + d);
+		System.out.println("a x a +b  = e reiz:" + e);
+		System.out.println("b/a  = f reiz:" + f);
+	}
+
+}
